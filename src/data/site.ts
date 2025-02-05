@@ -27,11 +27,11 @@ export const home = {
   stats: [
     {
       value: "50+",
-      label: "Providers",
+      label: "Providers Games",
     },
     {
       value: "2+",
-      label: "Experience",
+      label: "Year Experience",
     },
     {
       value: "99",
