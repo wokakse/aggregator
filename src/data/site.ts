@@ -1,7 +1,7 @@
 // Only for Astro page
 
 export const siteConfig = {
-  title: "Ultimate Astro",
+  title: "Wokakse Aggregator",
   description: "Experience Our Online Casino Software Solution",
 };
 
