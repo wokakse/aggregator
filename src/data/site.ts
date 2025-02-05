@@ -2,36 +2,36 @@
 
 export const siteConfig = {
   title: "Ultimate Astro",
-  description: "The Ultimate Multi-Framework Astro Template",
+  description: "Experience Our Online Casino Software Solution",
 };
 
 export const home = {
-  title: "One Template\nEvery Framework",
+  title: "Wokakse Aggregator Gaming",
   subtitle: "Ultimate Astro Template",
   description:
-    "Discover the power of multi-framework development with our ultimate Astro template. From React to Vue, Svelte to Solid - experience them all in one blazing-fast website.",
+    "Fast track your online casino’s launch with our complete iGaming White Label Package. Choose from the top iGaming products and payment gateways in Southeast Asia — all fully integrated into our advanced CRM platform and marketing toolkit.",
   features: [
     {
-      title: "All Frameworks",
-      description: "🎭 React, Vue, Svelte, Solid - use them all together",
+      title: "All Providers",
+      description: "🎭 Pragmatic Play, PG Soft, Habanero, Jili - use them all together",
     },
     {
       title: "Best Practices",
-      description: "✨ Modern design patterns & optimized performance",
+      description: "✨ Ready for launch casino gambling site & optimized performance",
     },
     {
       title: "Ready to Use",
-      description: "🚀 Pre-built components for each framework",
+      description: "🚀 Everything is ready you just need to promote it",
     },
   ],
   stats: [
     {
-      value: "5+",
-      label: "Frameworks",
+      value: "50+",
+      label: "Providers",
     },
     {
-      value: "10+",
-      label: "Components",
+      value: "2+",
+      label: "Experience",
     },
     {
       value: "99",
