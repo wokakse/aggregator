@@ -7,7 +7,7 @@ export const siteConfig = {
 
 export const home = {
   title: "Wokakse Aggregator Gaming",
-  subtitle: "Ultimate Astro Template",
+  subtitle: "Gaming Solution",
   description:
     "Fast track your online casino’s launch with our complete iGaming White Label Package. Choose from the top iGaming products and payment gateways in Southeast Asia — all fully integrated into our advanced CRM platform and marketing toolkit.",
   features: [
